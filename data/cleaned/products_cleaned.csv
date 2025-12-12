@@ -1,0 +1,17 @@
+product_id,product_name,category,sub_category,unit_price
+1,Smartphone,Electronics,Smartphone,15634
+2,Laptop,Electronics,Laptop,38685
+3,Headphones,Electronics,Headphones,7218
+4,Smartwatch,Electronics,Smartwatch,4502
+5,Mixer Grinder,Home Appliances,Mixer Grinder,650
+6,Air Purifier,Home Appliances,Air Purifier,32165
+7,Microwave,Home Appliances,Microwave,24792
+8,Refrigerator,Home Appliances,Refrigerator,34634
+9,T-Shirt,Clothing,T-Shirt,25644
+10,Jeans,Clothing,Jeans,15153
+11,Jacket,Clothing,Jacket,1486
+12,Shoes,Clothing,Shoes,4285
+13,Rice Pack,Groceries,Rice Pack,37479
+14,Wheat Flour,Groceries,Wheat Flour,35498
+15,Cooking Oil,Groceries,Cooking Oil,18482
+16,Spices Pack,Groceries,Spices Pack,3369
