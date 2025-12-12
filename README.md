@@ -13,7 +13,7 @@ Provide business insights for decision-making
 
 Tools Used
 
-Python (Pandas, NumPy, Matplotlib/Plotly)
-SQL (PostgreSQL)
-Power BI
-Jupyter Notebook
+Python (Pandas, NumPy, Matplotlib/Plotly),
+SQL (PostgreSQL),
+Power BI,
+Jupyter Notebook.
